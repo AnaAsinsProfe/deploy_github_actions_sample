@@ -1,3 +1,6 @@
+# URL de la aplicacion desplegada: 
+http://aplicacionanaasins-env.eba-tisgzyvm.us-east-1.elasticbeanstalk.com/
+
 # Ejemplo de despliegue de aplicaciones con GitHub Actions
 Este repositorio está configurado para desplegarse en AWS ElasticBeanstalk y Azure Web Apps mediante GitHub Actions.
 
